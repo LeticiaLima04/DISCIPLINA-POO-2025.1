@@ -32,7 +32,7 @@ Para executar os exercícios, siga os seguintes passos:
 
 ## 📚 Estrutura do Repositório
 ```
-📂 POO-Listas
+📂 Questão
  ┣ 📂 src
  ┃ ┣ 📂 br.edu.principal
  ┃ ┃ ┣ 📜 Principal.java  (Código principal de cada questão)
