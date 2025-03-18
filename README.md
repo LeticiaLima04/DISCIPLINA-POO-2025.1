@@ -36,7 +36,6 @@ Para executar os exercícios, siga os seguintes passos:
  ┣ 📂 src
  ┃ ┣ 📂 br.edu.principal
  ┃ ┃ ┣ 📜 Principal.java  (Código principal de cada questão)
- ┣ 📜 README.md
 ```
 
 Este repositório visa ajudar os alunos a entender melhor a aplicação da POO com Java, promovendo uma boa base para a resolução de problemas práticos por meio da programação orientada a objetos.
