@@ -16,7 +16,7 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 ### 📖 Exercícios Resolvidos
 - [EXE1 - Soma de Quatro Números](EXERCICIOS-RESOLVIDOS/Q1/src/br/edu/principal/Principal.java):  
   Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
-- [EXE2 - Média Aritmética de Três Notas](EXERCICIOS-RESOLVIDOS/Q2/src/br/edu/principal/Principal.java): 
+- [EXE2 - Média Aritmética de Três Notas](EXERCICIOS-RESOLVIDOS/Q2/src/br/edu/principal/Principal.java):    
   Faça um programa que receba três notas, calcule e mostre a média aritmética.
 - [EXE3 - Fatorial de um Número](EXERCICIOS-RESOLVIDOS/Q3/src/br/edu/principal/Principal.java):  
   Faça um programa que receba três notas, calcule e mostre a média aritmética.
