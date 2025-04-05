@@ -22,7 +22,7 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 
 
 ### 📝 Exercícios Propostos
-- [EXE01 - Subtração de Dois Números](Exercícios-Propostos/Q1.java): Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo.
+- [EXE01 - Subtração de Dois Números](Exercícios-Propostos/Q1/src/br/edu/principal/Principal.java): Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo.
 - [EXE02 - Multiplicação de Três Números](Exercícios-Propostos/Q2.java): Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
 - [EXE03 - Divisão de Dois Números](Exercícios-Propostos/Q3.java): Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo segundo. Sabe-se que o segundo número não pode ser zero, portanto, não é necessário se preocupar com validações.
 - [EXE04 - Média Ponderada de Duas Notas](Exercícios-Propostos/Q4.java): Faça um programa que receba duas notas, calcule e mostre a média ponderada dessas notas, considerando peso 2 para a primeira e peso 3 para a segunda.
