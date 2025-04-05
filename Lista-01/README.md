@@ -16,11 +16,18 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 - [EXE05 - Cálculo de Série](exercicios-resolvidos/EXE05.java): Calcula o valor de uma série matemática envolvendo sinais alternados e fatoriais.
 
 ### 📝 Exercícios Propostos
-- [EXE06 - Folha de Pagamento](exercicios-propostos/EXE06.java): Calcula o salário de funcionários com base em sua categoria e turno de trabalho.
-- [EXE07 - Sequência de Fibonacci](exercicios-propostos/EXE07.java): Calcula e exibe os primeiros oito termos da sequência de Fibonacci.
-- [EXE08 - Série com Multiplicação](exercicios-propostos/EXE08.java): Calcula valores de acordo com uma sequência que envolve multiplicação e divisão.
-- [EXE09 - Média das Notas](exercicios-propostos/EXE09.java): Calcula a média das notas de alunos e determina a situação de aprovação.
-- [EXE10 - Dados de Futebol](exercicios-propostos/EXE10.java): Realiza cálculos sobre jogadores de futebol, como idade, peso e altura.
+- [EXE01 - Folha de Pagamento](exercicios-propostos/Q1.java): Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo
+segundo.
+- [EXE02 - Sequência de Fibonacci](exercicios-propostos/Q2.java): Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
+- [EXE03 - Série com Multiplicação](exercicios-propostos/Q3.java): Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo
+segundo. Sabe-se que o segundo número não pode ser zero, portanto, não é necessário se preocupar
+com validações.
+- [EXE04 - Média das Notas](exercicios-propostos/Q4.java): Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo
+segundo. Sabe-se que o segundo número não pode ser zero, portanto, não é necessário se preocupar
+com validações.
+- [EXE-5- Dados de Futebol](exercicios-propostos/Q5.java): Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo
+segundo. Sabe-se que o segundo número não pode ser zero, portanto, não é necessário se preocupar
+com validações.
 
 ## 🚀 Como usar
 Para acessar e executar os exercícios, siga os seguintes passos:
