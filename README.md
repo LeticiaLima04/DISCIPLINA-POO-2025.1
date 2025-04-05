@@ -42,13 +42,19 @@ Este repositório visa ajudar os alunos a entender melhor a aplicação da POO c
 
 ---
 
-## 📖 Fonte dos Exercícios Adicionais
+## 📖 Fonte dos Exercícios
 
-As questões presentes nas pastas de exercícios resolvidos e propostos foram retiradas da apostila:
+As questões presentes nas pastas de exercícios foram retiradas da apostila:
 
 > **_"Fundamentos da Programação de Computadores"_**  
 > Autoras: **Ana Fernanda Gomes Ascencio** e **Edilene Aparecida Veneruchi**  
-> Capítulo: **Capítulo 03 – Estrutura Sequencial**
+> Capítulos: **Capítulo 03 – Estrutura Sequencial**
+             **Capítulo 04 – Estrutura Condicional**
+             **Capítulo 05 – Estrutura de Repetição**
+             **Capítulo 06 – Vetor**
+             **Capítulo 07 – Matriz**
+             **Capítulo 08 – Sub-rotina** 
+             
 
 Esses exercícios foram organizados em duas categorias:
 
