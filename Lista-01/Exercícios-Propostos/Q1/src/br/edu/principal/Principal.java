@@ -15,7 +15,7 @@ public class Principal {
 		
 		int resu = num1 - num2;
 		
-		System.out.println("Resultado da subtração: " + resu);;
+		System.out.println("Resultado da subtração: " + resu);
 
 	}
 
