@@ -14,18 +14,27 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 ## 📚 Enunciados das Questões
 
 ### 📖 Exercícios Resolvidos
-- [EXE1 - Soma de Quatro Números](EXERCICIOS-RESOLVIDOS/Q1/src/br/edu/principal/Principal.java): Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
-- [EXE2 - Média Aritmética de Três Notas](EXERCICIOS-RESOLVIDOS/Q2/src/br/edu/principal/Principal.java): Faça um programa que receba três notas, calcule e mostre a média aritmética.
-- [EXE3 - Fatorial de um Número](EXERCICIOS-RESOLVIDOS/Q3/src/br/edu/principal/Principal.java): Faça um programa que receba três notas, calcule e mostre a média aritmética.
-- [EXE4 - Aumento de Salário de 25%](EXERCICIOS-RESOLVIDOS/Q4/src/br/edu/principal/Principal.java): Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se
-que este sofreu um aumento de 25%.
-- [EXE5 - Aumento Salarial com Percentual](EXERCICIOS-RESOLVIDOS/Q5/src/br/edu/principal/Principal.java): Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre
-o valor do aumento e o novo salário.
-- [EXE6 - Salário com Gratificação de 5% e Imposto de 7%](EXERCICIOS-RESOLVIDOS/Q6/src/br/edu/principal/Principal.java): Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, sabendo-se que o funcionário tem gratificação de 5% sobre o salário base e paga imposto de 7% também sobre o salário base.
-- [EXE7 - Salário com Gratificação Fixa e Imposto de 10%](EXERCICIOS-RESOLVIDOS/Q7/src/br/edu/principal/Principal.java): Faça um programa que receba o salário base de um funcionário, calcule e mostre seu salário a receber, sabendo-se que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o salário base.
-- [EXE8 - Rendimento de Depósito](EXERCICIOS-RESOLVIDOS/Q8/src/br/edu/principal/Principal.java): Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento.
-- [EXE9 - Área de um Triângulo](EXERCICIOS-RESOLVIDOS/Q9/src/br/edu/principal/Principal.java): Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura) / 2.
-- [EXE10 - Área de um Círculo](EXERCICIOS-RESOLVIDOS/Q10/src/br/edu/principal/Principal.java): Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = π * R².
+- [EXE1 - Soma de Quatro Números](EXERCICIOS-RESOLVIDOS/Q1/src/br/edu/principal/Principal.java):
+  Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
+- [EXE2 - Média Aritmética de Três Notas](EXERCICIOS-RESOLVIDOS/Q2/src/br/edu/principal/Principal.java):
+  Faça um programa que receba três notas, calcule e mostre a média aritmética.
+- [EXE3 - Fatorial de um Número](EXERCICIOS-RESOLVIDOS/Q3/src/br/edu/principal/Principal.java):
+  Faça um programa que receba três notas, calcule e mostre a média aritmética.
+- [EXE4 - Aumento de Salário de 25%](EXERCICIOS-RESOLVIDOS/Q4/src/br/edu/principal/Principal.java):
+  Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%.
+- [EXE5 - Aumento Salarial com Percentual](EXERCICIOS-RESOLVIDOS/Q5/src/br/edu/principal/Principal.java):
+  Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário.
+- [EXE6 - Salário com Gratificação de 5% e Imposto de 7%](EXERCICIOS-RESOLVIDOS/Q6/src/br/edu/principal/Principal.java):
+  Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, sabendo-se que o funcionário tem gratificação de 5% sobre o salário base
+   e paga imposto de 7% também sobre o salário base.
+- [EXE7 - Salário com Gratificação Fixa e Imposto de 10%](EXERCICIOS-RESOLVIDOS/Q7/src/br/edu/principal/Principal.java):
+  Faça um programa que receba o salário base de um funcionário, calcule e mostre seu salário a receber, sabendo-se que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o salário base.
+- [EXE8 - Rendimento de Depósito](EXERCICIOS-RESOLVIDOS/Q8/src/br/edu/principal/Principal.java):
+  Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento.
+- [EXE9 - Área de um Triângulo](EXERCICIOS-RESOLVIDOS/Q9/src/br/edu/principal/Principal.java):
+  Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura) / 2.
+- [EXE10 - Área de um Círculo](EXERCICIOS-RESOLVIDOS/Q10/src/br/edu/principal/Principal.java):
+  Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = π * R².
 
 
 ### 📝 Exercícios Propostos
