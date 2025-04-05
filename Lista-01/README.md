@@ -1,11 +1,16 @@
+# 📘 Repositório de Exercícios de Programação Orientada a Objetos (POO)
 
-# 📌 Descrição
-O repositório está estruturado para facilitar o acesso às questões organizadas em duas categorias:
-- **📖 Exercícios Resolvidos**: Questões que já possuem respostas e são disponibilizadas para estudo.
-- **📝 Exercícios Propostos**: Questões que contêm apenas os enunciados e devem ser resolvidas pelos alunos.
+Este repositório está estruturado para facilitar o acesso às questões organizadas em duas categorias:
+
+- 📖 **Exercícios Resolvidos**: Questões que já possuem respostas e são disponibilizadas para estudo.
+- 📝 **Exercícios Propostos**: Questões que contêm apenas os enunciados e devem ser resolvidas pelos alunos.
 
 Cada exercício foi desenvolvido para que possamos compreender e aplicar os conceitos fundamentais da Programação Orientada a Objetos (POO) na prática.
 
+> **📌 As questões foram retiradas da apostila _"Fundamentos da Programação de Computadores"_ de Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi.  
+> Todos os exercícios apresentados fazem parte do Capítulo 03 – Estrutura Sequencial.**
+
+---
 ## 📚 Enunciados das Questões
 
 ### 📖 Exercícios Resolvidos
