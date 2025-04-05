@@ -1,6 +1,6 @@
 # Atividades de Programação Orientada a Objetos (POO) - Java
 
-Este repositório contém as soluções de todas as questões das 5 listas de Programação Orientada a Objetos (POO) em Java, desenvolvidas como parte da disciplina do professor Roger Moura Sarmento, no IFCE Campus Maranguape.
+Este repositório contém as soluções de todas as questões das 6 listas de Programação Orientada a Objetos (POO) em Java, desenvolvidas como parte da disciplina do professor Roger Moura Sarmento, no IFCE Campus Maranguape.
 
 ## 📌 Descrição
 Este repositório tem como objetivo fornecer aos alunos um ambiente organizado para resolver problemas utilizando os conceitos fundamentais de Programação Orientada a Objetos (POO) em Java. 
