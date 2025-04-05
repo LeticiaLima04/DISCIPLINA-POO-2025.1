@@ -16,18 +16,12 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 - [EXE05 - Cálculo de Série](exercicios-resolvidos/EXE05.java): Calcula o valor de uma série matemática envolvendo sinais alternados e fatoriais.
 
 ### 📝 Exercícios Propostos
-- [EXE01 - Folha de Pagamento](exercicios-propostos/Q1.java): Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo
-segundo.
-- [EXE02 - Sequência de Fibonacci](exercicios-propostos/Q2.java): Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
-- [EXE03 - Série com Multiplicação](exercicios-propostos/Q3.java): Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo
-segundo. Sabe-se que o segundo número não pode ser zero, portanto, não é necessário se preocupar
-com validações.
-- [EXE04 - Média das Notas](exercicios-propostos/Q4.java): Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo
-segundo. Sabe-se que o segundo número não pode ser zero, portanto, não é necessário se preocupar
-com validações.
-- [EXE-5- Dados de Futebol](exercicios-propostos/Q5.java): Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo
-segundo. Sabe-se que o segundo número não pode ser zero, portanto, não é necessário se preocupar
-com validações.
+- [EXE01 - Subtração de Dois Números](exercicios-propostos/Q1.java): Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo.
+- [EXE02 - Multiplicação de Três Números](exercicios-propostos/Q2.java): Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
+- [EXE03 - Divisão de Dois Números I](exercicios-propostos/Q3.java): Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo segundo. Sabe-se que o segundo número não pode ser zero, portanto, não é necessário se preocupar com validações.
+- [EXE04 - Divisão de Dois Números II](exercicios-propostos/Q4.java): Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo segundo. Sabe-se que o segundo número não pode ser zero, portanto, não é necessário se preocupar com validações.
+- [EXE05 - Divisão de Dois Números III](exercicios-propostos/Q5.java): Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo segundo. Sabe-se que o segundo número não pode ser zero, portanto, não é necessário se preocupar com validações.
+
 
 ## 🚀 Como usar
 Para acessar e executar os exercícios, siga os seguintes passos:
