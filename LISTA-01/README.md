@@ -18,8 +18,8 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
   Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
 - [EXE2 - Média Aritmética de Três Notas](EXERCICIOS-RESOLVIDOS/Q2/src/br/edu/principal/Principal.java):    
   Faça um programa que receba três notas, calcule e mostre a média aritmética.
-- [EXE3 - Fatorial de um Número](EXERCICIOS-RESOLVIDOS/Q3/src/br/edu/principal/Principal.java):  
-  Faça um programa que receba três notas, calcule e mostre a média aritmética.
+- [EXE3 - Média Ponderada](EXERCICIOS-RESOLVIDOS/Q3/src/br/edu/principal/Principal.java):  
+  Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.
 - [EXE4 - Aumento de Salário de 25%](EXERCICIOS-RESOLVIDOS/Q4/src/br/edu/principal/Principal.java):  
   Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%.
 - [EXE5 - Aumento Salarial com Percentual](EXERCICIOS-RESOLVIDOS/Q5/src/br/edu/principal/Principal.java):  
