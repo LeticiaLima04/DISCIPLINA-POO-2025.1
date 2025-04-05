@@ -1,4 +1,4 @@
-# 📘 Repositório de Exercícios de Programação Orientada a Objetos (POO)
+# 📘 Exercícios de Programação Orientada a Objetos (POO)
 
 Este repositório está estruturado para facilitar o acesso às questões organizadas em duas categorias:
 
