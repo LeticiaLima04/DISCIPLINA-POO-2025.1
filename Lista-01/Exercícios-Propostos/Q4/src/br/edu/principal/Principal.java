@@ -15,7 +15,7 @@ public class Principal {
 		
 		double media = (nota1 * 2 + nota2 * 3) / (2 + 3);
 		
-		 System.out.println("A média ponderada é: " + media);
+		 System.out.println("Sua Medía é: " + media);
 	}
 
 }
