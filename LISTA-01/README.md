@@ -79,7 +79,7 @@ Para acessar e executar os exercícios, siga os seguintes passos:
 
 ### 3️⃣ Estrutura de pastas:
 Dentro do projeto, os arquivos estão organizados em:
-- 📂 `exercicios-resolvidos/` → Contém questões que já vêm com a resposta.
+- 📂 `EXERCICIOS-RESOLVIDOS/` → Contém questões que já vêm com a resposta.
 - 📂 `EXERCICIOS-PROPOSTOS/` → Contém apenas os enunciados das questões para serem resolvidas.
 
 ### 4️⃣ Crie o pacote e a classe:
