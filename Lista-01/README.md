@@ -27,12 +27,33 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 
 
 ### 📝 Exercícios Propostos
-- [EXE01 - Subtração de Dois Números](Exercícios-Propostos/Q1/src/br/edu/principal/Principal.java): Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo.
-- [EXE02 - Multiplicação de Três Números](Exercícios-Propostos/Q2/src/br/edu/principal/Principal.java): Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
-- [EXE03 - Divisão de Dois Números](Exercícios-Propostos/Q3/src/br/edu/principal/Principal.java): Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo segundo. Sabe-se que o segundo número não pode ser zero, portanto, não é necessário se preocupar com validações.
-- [EXE04 - Média Ponderada de Duas Notas](Exercícios-Propostos/Q4/src/br/edu/principal/Principal.java): Faça um programa que receba duas notas, calcule e mostre a média ponderada dessas notas, considerando peso 2 para a primeira e peso 3 para a segunda.
-- [EXE05 - Desconto de 10% no Preço](Exercícios-Propostos/Q5/src/br/edu/principal/Principal.java): Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, sabendo-se que este sofreu um desconto de 10%.
 
+- [EXE01 - Subtração de Dois Números](Exercícios-Propostos/Q1/src/br/edu/principal/Principal.java):  
+  Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo.
+- [EXE02 - Multiplicação de Três Números](Exercícios-Propostos/Q2/src/br/edu/principal/Principal.java):  
+  Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
+- [EXE03 - Divisão de Dois Números](Exercícios-Propostos/Q3/src/br/edu/principal/Principal.java):  
+  Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo segundo.  
+  Sabe-se que o segundo número não pode ser zero, portanto, não é necessário se preocupar com validações.
+- [EXE04 - Média Ponderada de Duas Notas](Exercícios-Propostos/Q4/src/br/edu/principal/Principal.java):  
+  Faça um programa que receba duas notas, calcule e mostre a média ponderada dessas notas, considerando peso 2 para a primeira e peso 3 para a segunda.
+- [EXE05 - Desconto de 10% no Preço](Exercícios-Propostos/Q5/src/br/edu/principal/Principal.java):  
+  Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, sabendo-se que este sofreu um desconto de 10%.
+- [EXE06 - Comissão sobre Vendas](Exercícios-Propostos/Q6/src/br/edu/principal/Principal.java):  
+  Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas.  
+  Faça um programa que receba o salário fixo do funcionário e o valor de suas vendas, calcule e mostre a comissão e seu salário final.
+- [EXE07 - Variação de Peso](Exercícios-Propostos/Q7/src/br/edu/principal/Principal.java):  
+  Faça um programa que receba o peso de uma pessoa, calcule e mostre:  
+  a) o novo peso, se a pessoa engordar 15% sobre o peso digitado;  
+  b) o novo peso, se a pessoa emagrecer 20% sobre o peso digitado.
+- [EXE08 - Peso em Gramas](Exercícios-Propostos/Q8/src/br/edu/principal/Principal.java):  
+  Faça um programa que receba o peso de uma pessoa em quilos, calcule e mostre esse peso em gramas.
+- [EXE09 - Área de um Trapézio](Exercícios-Propostos/Q9/src/br/edu/principal/Principal.java):  
+  Faça um programa que calcule e mostre a área de um trapézio.  
+  Sabe-se que: A = ((base maior + base menor) * altura) / 2
+- [EXE10 - Área de um Quadrado](Exercícios-Propostos/Q10/src/br/edu/principal/Principal.java):  
+  Faça um programa que calcule e mostre a área de um quadrado.  
+  Sabe-se que: A = lado * lado
 
 ## 🚀 Como usar
 Para acessar e executar os exercícios, siga os seguintes passos:
