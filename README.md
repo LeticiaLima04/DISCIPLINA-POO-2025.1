@@ -40,6 +40,22 @@ Para executar os exercícios, siga os seguintes passos:
 
 Este repositório visa ajudar os alunos a entender melhor a aplicação da POO com Java, promovendo uma boa base para a resolução de problemas práticos por meio da programação orientada a objetos.
 
+---
+
+## 📖 Fonte dos Exercícios Adicionais
+
+As questões presentes nas pastas de exercícios resolvidos e propostos foram retiradas da apostila:
+
+> **_"Fundamentos da Programação de Computadores"_**  
+> Autoras: **Ana Fernanda Gomes Ascencio** e **Edilene Aparecida Veneruchi**  
+> Capítulo: **Capítulo 03 – Estrutura Sequencial**
+
+Esses exercícios foram organizados em duas categorias:
+
+- 📖 **Exercícios Resolvidos**: questões com código-fonte pronto para estudo.
+- 📝 **Exercícios Propostos**: questões com apenas os enunciados, para prática individual.
+
+---
+
 ## 📬 Contato
 Caso tenha dúvidas ou sugestões, sinta-se à vontade para contribuir ou entrar em contato! 😊
-
