@@ -9,24 +9,24 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 ## 📚 Enunciados das Questões
 
 ### 📖 Exercícios Resolvidos
-- [EXE1 - Soma de Quatro Números](exercicios-resolvidos/Q1.java): Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
-- [EXE2 - Cálculo de E](exercicios-resolvidos/Q2.java): Faça um programa que calcule uma aproximação do número **e** (base do logaritmo natural), usando uma série matemática.
-- [EXE3 - Fatorial de um Número](exercicios-resolvidos/Q3.java): Faça um programa que receba um número inteiro e calcule o seu fatorial.
-- [EXE4 - Estatísticas de Trânsito](exercicios-resolvidos/Q4.java): Faça um programa que receba o número de acidentes em cinco cidades e mostre a média de acidentes.
-- [EXE5 - Cálculo de Série 1](exercicios-resolvidos/Q5.java): Faça um programa que calcule e mostre o resultado de uma determinada série matemática.
-- [EXE6 - Salário com Gratificação de 5% e Imposto de 7%](exercicios-resolvidos/Q6.java): Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, sabendo-se que o funcionário tem gratificação de 5% sobre o salário base e paga imposto de 7% também sobre o salário base.
-- [EXE7 - Salário com Gratificação Fixa e Imposto de 10%](exercicios-resolvidos/Q7.java): Faça um programa que receba o salário base de um funcionário, calcule e mostre seu salário a receber, sabendo-se que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o salário base.
-- [EXE8 - Rendimento de Depósito](exercicios-resolvidos/Q8.java): Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento.
-- [EXE9 - Área de um Triângulo](exercicios-resolvidos/Q9.java): Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura) / 2.
-- [EXE10 - Área de um Círculo](exercicios-resolvidos/Q10.java): Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = π * R².
+- [EXE1 - Soma de Quatro Números](exercicios-resolvidos/Q1/src/br/edu/principal/Principal.java): Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
+- [EXE2 - Cálculo de E](exercicios-resolvidos/Q2/src/br/edu/principal/Principal.java): Faça um programa que calcule uma aproximação do número **e** (base do logaritmo natural), usando uma série matemática.
+- [EXE3 - Fatorial de um Número](exercicios-resolvidos/Q3/src/br/edu/principal/Principal.java): Faça um programa que receba um número inteiro e calcule o seu fatorial.
+- [EXE4 - Estatísticas de Trânsito](exercicios-resolvidos/Q4/src/br/edu/principal/Principal.java): Faça um programa que receba o número de acidentes em cinco cidades e mostre a média de acidentes.
+- [EXE5 - Cálculo de Série 1](exercicios-resolvidos/Q5/src/br/edu/principal/Principal.java): Faça um programa que calcule e mostre o resultado de uma determinada série matemática.
+- [EXE6 - Salário com Gratificação de 5% e Imposto de 7%](exercicios-resolvidos/Q6/src/br/edu/principal/Principal.java): Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, sabendo-se que o funcionário tem gratificação de 5% sobre o salário base e paga imposto de 7% também sobre o salário base.
+- [EXE7 - Salário com Gratificação Fixa e Imposto de 10%](exercicios-resolvidos/Q7/src/br/edu/principal/Principal.java): Faça um programa que receba o salário base de um funcionário, calcule e mostre seu salário a receber, sabendo-se que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o salário base.
+- [EXE8 - Rendimento de Depósito](exercicios-resolvidos/Q8/src/br/edu/principal/Principal.java): Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento.
+- [EXE9 - Área de um Triângulo](exercicios-resolvidos/Q9/src/br/edu/principal/Principal.java): Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura) / 2.
+- [EXE10 - Área de um Círculo](exercicios-resolvidos/Q10/src/br/edu/principal/Principal.java): Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = π * R².
 
 
 ### 📝 Exercícios Propostos
 - [EXE01 - Subtração de Dois Números](Exercícios-Propostos/Q1/src/br/edu/principal/Principal.java): Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo.
-- [EXE02 - Multiplicação de Três Números](Exercícios-Propostos/Q2.java): Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
-- [EXE03 - Divisão de Dois Números](Exercícios-Propostos/Q3.java): Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo segundo. Sabe-se que o segundo número não pode ser zero, portanto, não é necessário se preocupar com validações.
-- [EXE04 - Média Ponderada de Duas Notas](Exercícios-Propostos/Q4.java): Faça um programa que receba duas notas, calcule e mostre a média ponderada dessas notas, considerando peso 2 para a primeira e peso 3 para a segunda.
-- [EXE05 - Desconto de 10% no Preço](Exercícios-Propostos/Q5.java): Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, sabendo-se que este sofreu um desconto de 10%.
+- [EXE02 - Multiplicação de Três Números](Exercícios-Propostos/Q2/src/br/edu/principal/Principal.java): Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
+- [EXE03 - Divisão de Dois Números](Exercícios-Propostos/Q3/src/br/edu/principal/Principal.java): Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo segundo. Sabe-se que o segundo número não pode ser zero, portanto, não é necessário se preocupar com validações.
+- [EXE04 - Média Ponderada de Duas Notas](Exercícios-Propostos/Q4/src/br/edu/principal/Principal.java): Faça um programa que receba duas notas, calcule e mostre a média ponderada dessas notas, considerando peso 2 para a primeira e peso 3 para a segunda.
+- [EXE05 - Desconto de 10% no Preço](Exercícios-Propostos/Q5/src/br/edu/principal/Principal.java): Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, sabendo-se que este sofreu um desconto de 10%.
 
 
 ## 🚀 Como usar
