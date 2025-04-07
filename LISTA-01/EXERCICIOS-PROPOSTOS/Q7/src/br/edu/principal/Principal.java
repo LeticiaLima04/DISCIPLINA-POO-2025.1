@@ -18,6 +18,6 @@ public class Principal {
         System.out.println("Se engordar 15%%, o novo peso será: ", pesoEngordar);
         System.out.println("Se emagrecer 20%%, o novo peso será: ", pesoEmagrecer);
 
-        scanner.close();
+       
     }
 }
