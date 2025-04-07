@@ -16,8 +16,8 @@ public class Principal {
         double salreceber = sal + grat - imp;
 
         
-        System.out.printf("O salário a receber é: R$ %.2f\n", salreceber);
+        System.out.println("O salário a receber é: R$ " + salreceber);
 
-        scanner.close();
+        
     }
 }
