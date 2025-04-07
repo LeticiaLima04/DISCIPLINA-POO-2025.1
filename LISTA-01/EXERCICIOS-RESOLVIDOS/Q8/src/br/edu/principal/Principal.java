@@ -20,6 +20,6 @@ public class Principal {
         System.out.println("Valor do rendimento: R$ " + rend);
         System.out.println("Valor total após o rendimento: R$ " + total);
 
-        scanner.close();
+        
     }
 }
