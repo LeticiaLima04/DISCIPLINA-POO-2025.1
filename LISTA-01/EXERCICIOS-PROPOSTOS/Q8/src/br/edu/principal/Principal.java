@@ -14,8 +14,8 @@ public class Principal {
         double pesoGramas = pesoKg * 1000;
 
         
-        System.out.printf("O peso em gramas é: %.2f g%n", pesoGramas);
+        System.out.println("O peso em gramas é: " + pesoGramas);
 
-        scanner.close();
+        
     }
 }
