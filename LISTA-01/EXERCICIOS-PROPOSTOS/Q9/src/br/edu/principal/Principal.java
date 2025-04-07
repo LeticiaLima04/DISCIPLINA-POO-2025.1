@@ -20,8 +20,8 @@ public class Principal {
         double area = ((baseMaior + baseMenor) * altura) / 2;
 
         
-        System.out.printf("A área do trapézio é: %.2f%n", area);
+        System.out.println("A área do trapézio é: " + area);
 
-        scanner.close();
+        
     }
 }
