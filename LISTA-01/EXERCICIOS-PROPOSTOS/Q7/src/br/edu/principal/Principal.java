@@ -15,8 +15,8 @@ public class Principal {
         double pesoEmagrecer = peso - (peso * 20 / 100);
 
         
-        System.out.printf("Se engordar 15%%, o novo peso será: %.2f kg%n", pesoEngordar);
-        System.out.printf("Se emagrecer 20%%, o novo peso será: %.2f kg%n", pesoEmagrecer);
+        System.out.println("Se engordar 15%%, o novo peso será: ", pesoEngordar);
+        System.out.println("Se emagrecer 20%%, o novo peso será: ", pesoEmagrecer);
 
         scanner.close();
     }
