@@ -14,8 +14,8 @@ public class Principal {
         double area = lado * lado;
 
         
-        System.out.printf("A área do quadrado é: %.2f%n", area);
+        System.out.println("A área do quadrado é: " + area);
 
-        scanner.close();
+        
     }
 }
