@@ -111,6 +111,8 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
   | 3,0 a 7,0            | Exame         |  
   | 7,0 a 10,0           | Aprovado      |
 
+  ---
+
 - [EXE03 - Divisão de Dois Números](EXERCICIOS-PROPOSTOS/Q3/src/br/edu/principal/Principal.java):  
   Faça um programa que receba dois números e mostre o menor.
 
@@ -128,6 +130,8 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
   | 4                      | Divisão do primeiro pelo segundo   |
 
   Se a opção digitada for inválida, mostre uma mensagem de erro e termine a execução do programa.
+
+  ---
 
 - [EXE06 - Comissão sobre Vendas](EXERCICIOS-PROPOSTOS/Q6/src/br/edu/principal/Principal.java):  
   Faça um programa que receba dois números e execute uma das operações abaixo, conforme escolha do usuário:
@@ -150,6 +154,8 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
   | Até R$ 300,00         | 35%                       |  
   | Acima de R$ 300,00    | 15%                       |
 
+---
+
 - [EXE09 - Área de um Trapézio](EXERCICIOS-PROPOSTOS/Q9/src/br/edu/principal/Principal.java):  
   Um banco concederá um crédito especial aos seus clientes, de acordo com o saldo médio no último ano. Faça um programa que receba o saldo médio de um cliente e calcule o valor do crédito, de acordo com a tabela a seguir. Mostre o saldo médio e o valor do crédito.
 
@@ -162,6 +168,8 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
   | R$ 300,00 a R$ 200,00  | 20% do saldo médio        |  
   | Até R$ 200,00          | 10% do saldo médio        |
 
+  ---
+
 - [EXE10 - Área de um Quadrado](EXERCICIOS-PROPOSTOS/Q10/src/br/edu/principal/Principal.java):  
   O preço ao consumidor de um carro novo é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos, ambos aplicados ao custo de fábrica. As porcentagens encontram-se na tabela a seguir. Faça um programa que receba o custo de fábrica de um carro e mostre o preço ao consumidor.
 
@@ -173,6 +181,7 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
   | Entre R$ 12.000,00 e R$ 25.000,00 | 10%               | 15%                 |  
   | Acima de R$ 25.000,00        | 15%                   | 20%                 |
 
+---
 
 ## 🚀 Como usar
 Para acessar e executar os exercícios, siga os seguintes passos:
