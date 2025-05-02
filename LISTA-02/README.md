@@ -341,11 +341,26 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 
 
 - [EXE08 - Peso em Gramas](EXERCICIOS-PROPOSTOS/Q8/src/br/edu/principal/Principal.java):  
-  Faça um programa que receba a idade, o peso, a altura, a cor dos olhos (A — azul; P — preto; V — verde; e C — castanho) e a cor dos cabelos (P — preto; C — castanho; L — louro; e R — ruivo) de seis pessoas, e que calcule e mostre:  
-  - A quantidade de pessoas com idade superior a 50 anos e peso inferior a 60 kg;  
-  - A média das idades das pessoas com altura inferior a 1,50 m;  
-  - A porcentagem de pessoas com olhos azuis entre todas as pessoas analisadas;  
-  - A quantidade de pessoas ruivas e que não possuem olhos azuis.
+  Faça um programa que receba a **idade**, o **peso**, a **altura**, a **cor dos olhos** e a **cor dos cabelos** de **seis pessoas** e calcule e mostre:
+
+  - **A quantidade de pessoas com idade superior a 50 anos e peso inferior a 60 kg.**
+  - **A média das idades das pessoas com altura inferior a 1,50 m.**
+  - **A porcentagem de pessoas com olhos azuis entre todas as pessoas analisadas.**
+  - **A quantidade de pessoas ruivas e que não possuem olhos azuis.**
+
+  **Informações sobre as cores:**
+
+  - **Cor dos olhos:**
+    - A — azul  
+    - P — preto  
+    - V — verde  
+    - C — castanho
+
+  - **Cor dos cabelos:**
+    - P — preto  
+    - C — castanho  
+    - L — louro  
+    - R — ruivo
 
 
 
