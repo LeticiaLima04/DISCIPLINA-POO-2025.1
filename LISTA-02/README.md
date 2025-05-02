@@ -76,12 +76,15 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 
 ---
 
-- [EXE8 - Menu com Operações Matemáticas](EXERCICIOS-RESOLVIDOS/Q8/src/br/edu/principal/Principal.java)  
-  Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e os dados necessários para executar cada operação.  
-  **Menu de opções:**  
+- [EXE8 - Menu de Operações Matemáticas](EXERCICIOS-RESOLVIDOS/Q8/src/br/edu/principal/Principal.java)  
+  Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e execute a operação correspondente:
+
+  **Menu de opções:**
   1. Somar dois números.  
-  2. Raiz quadrada de um número.  
+  2. Raiz quadrada de um número.
+  
   Digite a opção desejada:
+
 
 - [EXE9 - Exibição de Data e Hora Formatadas](EXERCICIOS-RESOLVIDOS/Q9/src/br/edu/principal/Principal.java)  
   Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: DD/MM/AAAA – mês por extenso e hora:minuto.
