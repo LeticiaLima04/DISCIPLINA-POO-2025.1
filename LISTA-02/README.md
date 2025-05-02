@@ -16,7 +16,7 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 
 ### 📖 Exercícios Resolvidos
 
-- [EXE1 - Cálculo de Média Ponderada e Conceito Final](EXERCICIOS-RESOLVIDOS/Q1/src/br/edu/principal/Principal.java)  
+- [EXE1 - Cálculo de Média Ponderada e Conceito Final](CAP-04/EXERCICIOS-RESOLVIDOS/Q1/src/br/edu/principal/Principal.java)  
   Faça um programa que receba as três notas, calcule e mostre a média ponderada e o conceito final.
 
   **Pesos das notas:**
