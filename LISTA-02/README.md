@@ -11,7 +11,7 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 > Todos os exercícios apresentados fazem parte do Capítulo 04 – Estrutura Condicional e do Capítulo 05 - Estrutura de Repetição.**
 
 ---
-## 📚 Enunciados das Questões
+## 📚 Enunciados das Questões - CAP 04
 
 ### 📖 Exercícios Resolvidos
 - [EXE1 - Soma de Quatro Números](EXERCICIOS-RESOLVIDOS/Q1/src/br/edu/principal/Principal.java):  
