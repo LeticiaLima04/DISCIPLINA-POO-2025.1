@@ -15,26 +15,34 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 
 ### 📖 Exercícios Resolvidos
 - [EXE1 - Soma de Quatro Números](EXERCICIOS-RESOLVIDOS/Q1/src/br/edu/principal/Principal.java):  
-  Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
+  Faça um programa que receba as três notas, calcule e mostre a média ponderada
 - [EXE2 - Média Aritmética de Três Notas](EXERCICIOS-RESOLVIDOS/Q2/src/br/edu/principal/Principal.java):    
-  Faça um programa que receba três notas, calcule e mostre a média aritmética.
+  Faça um programa que receba três notas de um aluno, calcule e mostre a média aritmética e a mensagem constante na tabela a seguir. Aos alunos que ficaram para exame, calcule e mostre a nota que deverão
+  tirar para serem aprovados, considerando que a média exigida é 6,0.
 - [EXE3 - Média Ponderada](EXERCICIOS-RESOLVIDOS/Q3/src/br/edu/principal/Principal.java):  
-  Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.
+  Faça um programa que receba dois números e mostre o maior.
 - [EXE4 - Aumento de Salário de 25%](EXERCICIOS-RESOLVIDOS/Q4/src/br/edu/principal/Principal.java):  
-  Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%.
+  Faça um programa que receba três números e mostre-os em ordem crescente. Suponha que o usuário digitará três números diferentes.
 - [EXE5 - Aumento Salarial com Percentual](EXERCICIOS-RESOLVIDOS/Q5/src/br/edu/principal/Principal.java):  
-  Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário.
+  Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número que não siga essa regra. Mostre, em seguida, os quatro números em ordem decrescente. Suponha que o usuário 
+  digitará quatro números diferentes.
 - [EXE6 - Salário com Gratificação de 5% e Imposto de 7%](EXERCICIOS-RESOLVIDOS/Q6/src/br/edu/principal/Principal.java):  
-  Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, sabendo-se que o funcionário tem gratificação de 5% sobre o salário base
-  e paga imposto de 7% também sobre o salário base.
+  Faça um programa que receba um número inteiro e verifique se é par ou ímpar.
 - [EXE7 - Salário com Gratificação Fixa e Imposto de 10%](EXERCICIOS-RESOLVIDOS/Q7/src/br/edu/principal/Principal.java):  
-  Faça um programa que receba o salário base de um funcionário, calcule e mostre seu salário a receber, sabendo-se que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o salário base.
+  Faça um programa que receba quatro valores: I, A, B e C. Desses valores, I é inteiro e positivo, A, B e C são reais. Escreva os números A, B e C obedecendo à tabela a seguir. Suponha que o valor digitado 
+  para I seja sempre um valor válido, ou seja, 1, 2 ou 3, e que os números digitados sejam diferentes um do outro.
 - [EXE8 - Rendimento de Depósito](EXERCICIOS-RESOLVIDOS/Q8/src/br/edu/principal/Principal.java):  
-  Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento.
+  Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e os dados neces-
+  sários para executar cada operação.
+    Menu de opções:
+   1. Somar dois números.
+   2. Raiz quadrada de um número.
+   Digite a opção desejada:
 - [EXE9 - Área de um Triângulo](EXERCICIOS-RESOLVIDOS/Q9/src/br/edu/principal/Principal.java):  
-  Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura) / 2.
+  Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: DD/MM/AAAA – mês por extenso e hora:minuto.
 - [EXE10 - Área de um Círculo](EXERCICIOS-RESOLVIDOS/Q10/src/br/edu/principal/Principal.java):  
-  Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = π * R².
+  Faça um programa que determine a data cronologicamente maior entre duas datas fornecidas pelo usuário. Cada data deve ser composta por três valores inteiros, em que o primeiro representa o dia, o
+  segundo, o mês e o terceiro, o ano.
 
 
 ### 📝 Exercícios Propostos
