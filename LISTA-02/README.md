@@ -183,6 +183,185 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 
 ---
 
+## 📚 Enunciados das Questões - CAP 05
+
+### 📖 Exercícios Resolvidos
+
+- [EXE1 - Cálculo de Salário Atual com Aumentos Progressivos](EXERCICIOS-RESOLVIDOS/Q1/src/br/edu/principal/Principal.java)  
+  Um funcionário de uma empresa recebe, anualmente, aumento salarial. Sabe-se que:
+  a) Esse funcionário foi contratado em 2005, com salário inicial de R$ 1.000,00.
+  b) Em 2006, ele recebeu aumento de 1,5% sobre seu salário inicial.
+  c) A partir de 2007 (inclusive), os aumentos salariais sempre corresponderam ao dobro do percentual do ano anterior.
+  
+  **Objetivo:**  
+  Faça um programa que determine o salário atual desse funcionário.
+
+---
+
+- [EXE2 - Cálculo de Série com Fatoriais](EXERCICIOS-RESOLVIDOS/Q2/src/br/edu/principal/Principal.java)  
+  Faça um programa que leia um valor N inteiro e positivo. Calcule e mostre o valor de E, conforme a fórmula a seguir:
+
+  | E = 1 + 1/1! + 1/2! + 1/3! + ... + 1/N! |
+
+---
+
+- [EXE3 - Tabela de Fatoriais de N Números](EXERCICIOS-RESOLVIDOS/Q3/src/br/edu/principal/Principal.java)  
+  Faça um programa que leia um número N que indica quantos valores inteiros e positivos devem ser lidos a seguir. Para cada número lido, mostre uma tabela contendo o valor lido e o fatorial desse valor.
+
+---
+
+- [EXE4 - Estatísticas de Trânsito em Cidades](EXERCICIOS-RESOLVIDOS/Q4/src/br/edu/principal/Principal.java)  
+  Foi feita uma estatística em cinco cidades brasileiras para coletar dados sobre acidentes de trânsito.
+  Foram obtidos os seguintes dados:
+  a) código da cidade;
+  b) número de veículos de passeio;
+  c) número de acidentes de trânsito com vítimas.
+  
+  **Objetivos:**  
+  a) Qual é o maior e qual é o menor índice de acidentes de trânsito e a que cidades pertencem?  
+  b) Qual é a média de veículos nas cinco cidades juntas?  
+  c) Qual é a média de acidentes de trânsito nas cidades com menos de 2.000 veículos de passeio?
+
+---
+
+- [EXE5 - Cálculo de Série Alternada com Fatoriais](EXERCICIOS-RESOLVIDOS/Q5/src/br/edu/principal/Principal.java)  
+  Faça um programa que leia o número de termos e um valor positivo para X. Calcule e mostre o valor da série a seguir:
+  
+  | S = -X² + X³ - X⁴ + X⁵ - X⁶ + X⁷ - X⁸ + X⁹ - X¹⁰ + ... |
+
+---
+
+- [EXE6 - Cálculo de Salário e Auxílio Alimentação](EXERCICIOS-RESOLVIDOS/Q6/src/br/edu/principal/Principal.java)  
+  Uma empresa possui dez funcionários com as seguintes características: código, número de horas trabalhadas no mês, turno de trabalho (M – matutino; V – vespertino; ou N – noturno), categoria (O – operário; ou G – gerente), valor da hora trabalhada. O programa deve:  
+  a) Ler as informações dos funcionários, exceto o valor da hora trabalhada, não permitindo que sejam informados turnos e categorias inexistentes.  
+  b) Calcular o valor da hora trabalhada conforme a tabela fornecida.
+  
+  **Tabela de Cálculo da Hora Trabalhada:**
+
+  | Categoria | Turno | Valor da Hora Trabalhada |
+  |-----------|-------|--------------------------|
+  | G         | N     | 18% do salário mínimo     |
+  | G         | M ou V| 15% do salário mínimo     |
+  | O         | N     | 13% do salário mínimo     |
+  | O         | M ou V| 10% do salário mínimo     |
+
+  c) Calcular o salário inicial dos funcionários.  
+  d) Calcular o valor do auxílio alimentação com base no salário inicial.
+
+  **Tabela de Cálculo do Auxílio Alimentação:**
+
+  | Salário Inicial  | Auxílio Alimentação |
+  |------------------|---------------------|
+  | Até R$ 300,00    | 20% do salário       |
+  | Entre R$ 300,00 e R$ 600,00 | 15% do salário |
+  | Acima de R$ 600,00 | 5% do salário       |
+
+---
+
+- [EXE7 - Sequência de Fibonacci](EXERCICIOS-RESOLVIDOS/Q7/src/br/edu/principal/Principal.java)  
+  Faça um programa que monte os oito primeiros termos da sequência de Fibonacci.  
+  | 0 - 1 - 1 - 2 - 3 - 5 - 8 - 13 - 21 - 34 - 55... |
+
+---
+
+- [EXE8 - Série Matemática com Padrões](EXERCICIOS-RESOLVIDOS/Q8/src/br/edu/principal/Principal.java)  
+  Faça um programa que leia o número de termos, determine e mostre os valores de acordo com a série a seguir:
+  
+  | Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768... |
+
+---
+
+- [EXE9 - Exibição de Data e Hora Formatadas](EXERCICIOS-RESOLVIDOS/Q9/src/br/edu/principal/Principal.java)  
+  Faça um programa que mostre a data e a hora do sistema nos seguintes formatos:  
+  **DD/MM/AAAA – mês por extenso**  
+  **Hora:minuto**
+
+---
+
+- [EXE10 - Comparação de Duas Datas](EXERCICIOS-RESOLVIDOS/Q10/src/br/edu/principal/Principal.java)  
+  Faça um programa que determine a data cronologicamente maior entre duas datas fornecidas pelo usuário. Cada data deve ser composta por três valores inteiros: dia, mês e ano.
+
+## 📝 Exercícios Propostos
+
+- [EXE01 - Subtração de Dois Números](EXERCICIOS-PROPOSTOS/Q1/src/br/edu/principal/Principal.java):  
+  Faça um programa que leia cinco grupos de quatro valores (A, B, C, D) e mostre-os na ordem lida. Em segui-
+da, organize-os em ordem crescente e decrescente.
+
+- [EXE02 - Multiplicação de Três Números](EXERCICIOS-PROPOSTOS/Q2/src/br/edu/principal/Principal.java):  
+  Uma companhia de teatro deseja montar uma série de espetáculos. A direção calcula que, a
+R$ 5,00 o ingresso, serão vendidos 120 ingressos, e que as despesas serão de R$ 200,00. Diminuindo-se em
+R$ 0,50 o preço dos ingressos, espera-se que as vendas aumentem em 26 ingressos. Faça um programa que
+
+escreva uma tabela de valores de lucros esperados em função do preço do ingresso, fazendo-se variar esse pre-
+ço de R$ 5,00 a R$ 1,00, de R$ 0,50 em R$ 0,50. Escreva, ainda, para cada novo preço de ingresso, o lucro
+
+máximo esperado, o preço do ingresso e a quantidade de ingressos vendidos para a obtenção desse lucro.
+
+- [EXE03 - Divisão de Dois Números](EXERCICIOS-PROPOSTOS/Q3/src/br/edu/principal/Principal.java):  
+  FFaça um programa que receba a idade de oito pessoas, calcule e mostre:
+a) a quantidade de pessoas em cada faixa etária;
+b) a porcentagem de pessoas na primeira faixa etária com relação ao total de pessoas.
+c) a porcentagem de pessoas na última faixa etária com relação ao total de pessoas
+
+faiXa eTária idade
+1a Até 15 anos
+2a De 16 a 30 anos
+3a De 31 a 45 anos
+4a De 46 a 60 anos
+5a Acima de 60 anos
+
+- [EXE04 - Média Ponderada de Duas Notas](EXERCICIOS-PROPOSTOS/Q4/src/br/edu/principal/Principal.java):  
+  Faça um programa que receba um número, calcule e mostre a tabuada desse número.
+Exemplo:
+Digite um número: 5
+5 × 0 = 0
+5 × 1 = 5
+5 × 2 = 10
+5 × 3 = 15
+5 × 4 = 20
+5 × 5 = 25
+5 × 6 = 30
+5 × 7 = 35
+5 × 8 = 40
+5 × 9 = 45
+5 × 10 = 50
+
+- [EXE05 - Desconto de 10% no Preço](EXERCICIOS-PROPOSTOS/Q5/src/br/edu/principal/Principal.java):  
+  Faça um programa que mostre as tabuadas dos números de 1 a 10.
+- [EXE06 - Comissão sobre Vendas](EXERCICIOS-PROPOSTOS/Q6/src/br/edu/principal/Principal.java):  
+  Uma loja utiliza o código V para transação à vista e P para transação a prazo. Faça um programa que receba
+o código e o valor de quinze transações, calcule e mostre:
+■■ o valor total das compras à vista;
+■■ o valor total das compras a prazo;
+■■ o valor total das compras efetuadas; e
+■■ o valor da primeira prestação das compras a prazo juntas, sabendo-se que serão pagas em três vezes.
+
+- [EXE07 - Variação de Peso](EXERCICIOS-PROPOSTOS/Q7/src/br/edu/principal/Principal.java):  
+  Faça um programa que receba a idade, a altura e o peso de cinco pessoas, calcule e mostre:
+■■ a quantidade de pessoas com idade superior a 50 anos;
+■■ a média das alturas das pessoas com idade entre 10 e 20 anos;
+■■ a porcentagem de pessoas com peso inferior a 40 kg entre todas as pessoas analisadas.
+
+- [EXE08 - Peso em Gramas](EXERCICIOS-PROPOSTOS/Q8/src/br/edu/principal/Principal.java):  
+ Faça um programa que receba a idade, o peso, a altura, a cor dos olhos (A — azul; P — preto; V — verde; e
+C — castanho) e a cor dos cabelos (P — preto; C — castanho; L — louro; e R — ruivo) de seis pessoas, e que
+calcule e mostre:
+■■ a quantidade de pessoas com idade superior a 50 anos e peso inferior a 60 kg;
+■■ a média das idades das pessoas com altura inferior a 1,50 m;
+■■ a porcentagem de pessoas com olhos azuis entre todas as pessoas analisadas; e
+■■ a quantidade de pessoas ruivas e que não possuem olhos azuis.
+
+- [EXE09 - Área de um Trapézio](EXERCICIOS-PROPOSTOS/Q9/src/br/edu/principal/Principal.java):  
+  Faça um programa que receba dez idades, pesos e alturas, calcule e mostre:
+■■ a média das idades das dez pessoas;
+■■ a quantidade de pessoas com peso superior a 90 kg e altura inferior a 1,50 metro; e
+■■ a porcentagem de pessoas com idade entre 10 e 30 anos entre as pessoas que medem mais de
+1,90 m.
+
+- [EXE10 - Área de um Quadrado](EXERCICIOS-PROPOSTOS/Q10/src/br/edu/principal/Principal.java):  
+  Faça um programa que receba dez números, calcule e mostre a soma dos números pares e a soma dos
+números primos.
+
 ## 🚀 Como usar
 Para acessar e executar os exercícios, siga os seguintes passos:
 
