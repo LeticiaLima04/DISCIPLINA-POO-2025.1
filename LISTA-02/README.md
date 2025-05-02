@@ -2,7 +2,7 @@
 
 Este repositório está estruturado para facilitar o acesso às questões organizadas em duas categorias:
 
-- 📖 **Exercícios Resolvidos**: Questões que já possuem respostas e são disponibilizadas para estudo.
+- 📖 **Exercícios Resolvidos**: Questões que já possuem respostas e são disponibilizadas para estudo.  
 - 📝 **Exercícios Propostos**: Questões que contêm apenas os enunciados e devem ser resolvidas pelos alunos.
 
 Cada exercício foi desenvolvido para que possamos compreender e aplicar os conceitos fundamentais da Programação Orientada a Objetos (POO) na prática.
@@ -11,38 +11,84 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 > Todos os exercícios apresentados fazem parte do Capítulo 04 – Estrutura Condicional e do Capítulo 05 - Estrutura de Repetição.**
 
 ---
+
 ## 📚 Enunciados das Questões - CAP 04
 
 ### 📖 Exercícios Resolvidos
-- [EXE1 - Soma de Quatro Números](EXERCICIOS-RESOLVIDOS/Q1/src/br/edu/principal/Principal.java):  
-  Faça um programa que receba as três notas, calcule e mostre a média ponderada
-- [EXE2 - Média Aritmética de Três Notas](EXERCICIOS-RESOLVIDOS/Q2/src/br/edu/principal/Principal.java):    
-  Faça um programa que receba três notas de um aluno, calcule e mostre a média aritmética e a mensagem constante na tabela a seguir. Aos alunos que ficaram para exame, calcule e mostre a nota que deverão
-  tirar para serem aprovados, considerando que a média exigida é 6,0.
-- [EXE3 - Média Ponderada](EXERCICIOS-RESOLVIDOS/Q3/src/br/edu/principal/Principal.java):  
+
+- [EXE1 - Cálculo de Média Ponderada e Conceito Final](EXERCICIOS-RESOLVIDOS/Q1/src/br/edu/principal/Principal.java)  
+  Faça um programa que receba as três notas, calcule e mostre a média ponderada e o conceito final.
+
+  **Pesos das notas:**
+  - Trabalho: **2**
+  - Avaliação: **3**
+  - Exame: **5**
+
+  **Conceito final:**
+
+  | Média     | Conceito |
+  |-----------|----------|
+  | 8,0 – 10  | A        |
+  | 7,0 – 7,9 | B        |
+  | 6,0 – 6,9 | C        |
+  | 5,0 – 5,9 | D        |
+  | 0,0 – 4,9 | E        |
+
+---
+
+- [EXE2 - Cálculo de Média Aritmética e Nota do Exame](EXERCICIOS-RESOLVIDOS/Q2/src/br/edu/principal/Principal.java)  
+  Faça um programa que receba três notas de um aluno, calcule e mostre a média aritmética e a mensagem correspondente.  
+  Aos alunos que ficaram para exame, calcule e mostre a nota que deverão tirar para serem aprovados, considerando que a média exigida é 6,0.
+
+  **Mensagem de acordo com a média:**
+
+  | Média     | Mensagem   |
+  |-----------|------------|
+  | 0,0 – 2,9 | Reprovado  |
+  | 3,0 – 6,9 | Exame      |
+  | 7,0 – 10  | Aprovado   |
+
+---
+
+- [EXE3 - Verificação do Maior Número](EXERCICIOS-RESOLVIDOS/Q3/src/br/edu/principal/Principal.java)  
   Faça um programa que receba dois números e mostre o maior.
-- [EXE4 - Aumento de Salário de 25%](EXERCICIOS-RESOLVIDOS/Q4/src/br/edu/principal/Principal.java):  
+
+- [EXE4 - Ordenação de Três Números Crescentes](EXERCICIOS-RESOLVIDOS/Q4/src/br/edu/principal/Principal.java)  
   Faça um programa que receba três números e mostre-os em ordem crescente. Suponha que o usuário digitará três números diferentes.
-- [EXE5 - Aumento Salarial com Percentual](EXERCICIOS-RESOLVIDOS/Q5/src/br/edu/principal/Principal.java):  
-  Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número que não siga essa regra. Mostre, em seguida, os quatro números em ordem decrescente. Suponha que o usuário 
-  digitará quatro números diferentes.
-- [EXE6 - Salário com Gratificação de 5% e Imposto de 7%](EXERCICIOS-RESOLVIDOS/Q6/src/br/edu/principal/Principal.java):  
+
+- [EXE5 - Ordenação Decrescente com Quarto Número Fora de Ordem](EXERCICIOS-RESOLVIDOS/Q5/src/br/edu/principal/Principal.java)  
+  Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número que não siga essa regra. Mostre, em seguida, os quatro números em ordem decrescente. Suponha que o usuário digitará quatro números diferentes.
+
+- [EXE6 - Verificação de Número Par ou Ímpar](EXERCICIOS-RESOLVIDOS/Q6/src/br/edu/principal/Principal.java)  
   Faça um programa que receba um número inteiro e verifique se é par ou ímpar.
-- [EXE7 - Salário com Gratificação Fixa e Imposto de 10%](EXERCICIOS-RESOLVIDOS/Q7/src/br/edu/principal/Principal.java):  
-  Faça um programa que receba quatro valores: I, A, B e C. Desses valores, I é inteiro e positivo, A, B e C são reais. Escreva os números A, B e C obedecendo à tabela a seguir. Suponha que o valor digitado 
-  para I seja sempre um valor válido, ou seja, 1, 2 ou 3, e que os números digitados sejam diferentes um do outro.
-- [EXE8 - Rendimento de Depósito](EXERCICIOS-RESOLVIDOS/Q8/src/br/edu/principal/Principal.java):  
-  Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e os dados neces-
-  sários para executar cada operação.
-    Menu de opções:
-   1. Somar dois números.
-   2. Raiz quadrada de um número.
-   Digite a opção desejada:
-- [EXE9 - Área de um Triângulo](EXERCICIOS-RESOLVIDOS/Q9/src/br/edu/principal/Principal.java):  
+
+- [EXE7 - Impressão de Valores com Base em Opção](EXERCICIOS-RESOLVIDOS/Q7/src/br/edu/principal/Principal.java)  
+  Faça um programa que receba quatro valores: I, A, B e C. Desses valores, I é inteiro e positivo, A, B e C são reais. Escreva os números A, B e C obedecendo à tabela a seguir.  
+  Suponha que o valor digitado para I seja sempre um valor válido, ou seja, 1, 2 ou 3, e que os números digitados sejam diferentes um do outro.
+
+  **Formas de escrita conforme o valor de I:**
+
+  | Valor de I | Forma de Escrever A, B e C            |
+  |------------|----------------------------------------|
+  | 1          | A, B e C em ordem crescente            |
+  | 2          | A, B e C em ordem decrescente          |
+  | 3          | O maior entre A, B e C no meio dos dois|
+
+---
+
+- [EXE8 - Menu com Operações Matemáticas](EXERCICIOS-RESOLVIDOS/Q8/src/br/edu/principal/Principal.java)  
+  Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e os dados necessários para executar cada operação.  
+  **Menu de opções:**  
+  1. Somar dois números.  
+  2. Raiz quadrada de um número.  
+  Digite a opção desejada:
+
+- [EXE9 - Exibição de Data e Hora Formatadas](EXERCICIOS-RESOLVIDOS/Q9/src/br/edu/principal/Principal.java)  
   Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: DD/MM/AAAA – mês por extenso e hora:minuto.
-- [EXE10 - Área de um Círculo](EXERCICIOS-RESOLVIDOS/Q10/src/br/edu/principal/Principal.java):  
-  Faça um programa que determine a data cronologicamente maior entre duas datas fornecidas pelo usuário. Cada data deve ser composta por três valores inteiros, em que o primeiro representa o dia, o
-  segundo, o mês e o terceiro, o ano.
+
+- [EXE10 - Comparação de Duas Datas](EXERCICIOS-RESOLVIDOS/Q10/src/br/edu/principal/Principal.java)  
+  Faça um programa que determine a data cronologicamente maior entre duas datas fornecidas pelo usuário. Cada data deve ser composta por três valores inteiros, em que o primeiro representa o dia, o segundo, o mês e o terceiro, o ano.
+
 
 
 ### 📝 Exercícios Propostos
