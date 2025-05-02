@@ -90,38 +90,89 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
   Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: DD/MM/AAAA – mês por extenso e hora:minuto.
 
 - [EXE10 - Comparação de Duas Datas](EXERCICIOS-RESOLVIDOS/Q10/src/br/edu/principal/Principal.java)  
-  Faça um programa que determine a data cronologicamente maior entre duas datas fornecidas pelo usuário. Cada data deve ser composta por três valores inteiros, em que o primeiro representa o dia, o segundo, o mês e o terceiro, o ano.
+  Faça um programa que determine a data cronologicamente maior entre duas datas fornecidas pelo usuário. Cada data deve ser composta por três valores inteiros, em que o primeiro representa o dia, o segundo, o 
+  mês e o terceiro, o ano.
 
 
 
-### 📝 Exercícios Propostos
+## 📝 Exercícios Propostos
 
 - [EXE01 - Subtração de Dois Números](EXERCICIOS-PROPOSTOS/Q1/src/br/edu/principal/Principal.java):  
-  Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo.
+  Faça um programa que receba quatro notas de um aluno, calcule e mostre a média aritmética das notas e a mensagem de aprovado ou reprovado, considerando para aprovação média 7.
+
 - [EXE02 - Multiplicação de Três Números](EXERCICIOS-PROPOSTOS/Q2/src/br/edu/principal/Principal.java):  
-  Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
+  Faça um programa que receba duas notas, calcule e mostre a média aritmética e a mensagem que se encontra na tabela a seguir:
+
+  **Média Aritmética e Mensagem:**
+
+  | **Média Aritmética** | **Mensagem**  |  
+  |----------------------|---------------|  
+  | 0,0 a 3,0            | Reprovado     |  
+  | 3,0 a 7,0            | Exame         |  
+  | 7,0 a 10,0           | Aprovado      |
+
 - [EXE03 - Divisão de Dois Números](EXERCICIOS-PROPOSTOS/Q3/src/br/edu/principal/Principal.java):  
-  Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo segundo.  
-  Sabe-se que o segundo número não pode ser zero, portanto, não é necessário se preocupar com validações.
+  Faça um programa que receba dois números e mostre o menor.
+
 - [EXE04 - Média Ponderada de Duas Notas](EXERCICIOS-PROPOSTOS/Q4/src/br/edu/principal/Principal.java):  
-  Faça um programa que receba duas notas, calcule e mostre a média ponderada dessas notas, considerando peso 2 para a primeira e peso 3 para a segunda.
+  Faça um programa que receba três números e mostre o maior.
+
 - [EXE05 - Desconto de 10% no Preço](EXERCICIOS-PROPOSTOS/Q5/src/br/edu/principal/Principal.java):  
-  Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, sabendo-se que este sofreu um desconto de 10%.
+  Faça um programa que receba dois números e execute as operações conforme a escolha do usuário:
+
+  | **Escolha do Usuário** | **Operação**                       |  
+  |------------------------|------------------------------------|  
+  | 1                      | Média entre os números digitados   |  
+  | 2                      | Diferença do maior pelo menor      |  
+  | 3                      | Produto entre os números digitados |  
+  | 4                      | Divisão do primeiro pelo segundo   |
+
+  Se a opção digitada for inválida, mostre uma mensagem de erro e termine a execução do programa.
+
 - [EXE06 - Comissão sobre Vendas](EXERCICIOS-PROPOSTOS/Q6/src/br/edu/principal/Principal.java):  
-  Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas.  
-  Faça um programa que receba o salário fixo do funcionário e o valor de suas vendas, calcule e mostre a comissão e seu salário final.
+  Faça um programa que receba dois números e execute uma das operações abaixo, conforme escolha do usuário:
+
+  **Opções:**
+  - a) O primeiro número elevado ao segundo número.
+  - b) Raiz quadrada de cada número.
+  - c) Raiz cúbica de cada número.
+
 - [EXE07 - Variação de Peso](EXERCICIOS-PROPOSTOS/Q7/src/br/edu/principal/Principal.java):  
-  Faça um programa que receba o peso de uma pessoa, calcule e mostre:  
-  a) o novo peso, se a pessoa engordar 15% sobre o peso digitado;  
-  b) o novo peso, se a pessoa emagrecer 20% sobre o peso digitado.
+  Uma empresa decide dar um aumento de 30% aos funcionários com salários inferiores a R$ 500,00. Faça um programa que receba o salário do funcionário e mostre o valor do salário reajustado ou uma mensagem, caso ele não tenha direito ao aumento.
+
 - [EXE08 - Peso em Gramas](EXERCICIOS-PROPOSTOS/Q8/src/br/edu/principal/Principal.java):  
-  Faça um programa que receba o peso de uma pessoa em quilos, calcule e mostre esse peso em gramas.
+  Faça um programa para calcular e mostrar o salário reajustado de um funcionário. O percentual de aumento encontra-se na tabela a seguir.
+
+  **Salário e Percentual de Aumento:**
+
+  | **Salário**           | **Percentual de Aumento** |  
+  |-----------------------|---------------------------|  
+  | Até R$ 300,00         | 35%                       |  
+  | Acima de R$ 300,00    | 15%                       |
+
 - [EXE09 - Área de um Trapézio](EXERCICIOS-PROPOSTOS/Q9/src/br/edu/principal/Principal.java):  
-  Faça um programa que calcule e mostre a área de um trapézio.  
-  Sabe-se que: A = ((base maior + base menor) * altura) / 2
+  Um banco concederá um crédito especial aos seus clientes, de acordo com o saldo médio no último ano. Faça um programa que receba o saldo médio de um cliente e calcule o valor do crédito, de acordo com a tabela a seguir. Mostre o saldo médio e o valor do crédito.
+
+  **Saldo Médio e Percentual:**
+
+  | **Saldo Médio**        | **Percentual**            |  
+  |------------------------|---------------------------|  
+  | Acima de R$ 400,00     | 30% do saldo médio        |  
+  | R$ 400,00 a R$ 300,00  | 25% do saldo médio        |  
+  | R$ 300,00 a R$ 200,00  | 20% do saldo médio        |  
+  | Até R$ 200,00          | 10% do saldo médio        |
+
 - [EXE10 - Área de um Quadrado](EXERCICIOS-PROPOSTOS/Q10/src/br/edu/principal/Principal.java):  
-  Faça um programa que calcule e mostre a área de um quadrado.  
-  Sabe-se que: A = lado * lado
+  O preço ao consumidor de um carro novo é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos, ambos aplicados ao custo de fábrica. As porcentagens encontram-se na tabela a seguir. Faça um programa que receba o custo de fábrica de um carro e mostre o preço ao consumidor.
+
+  **Custo de Fábrica, Percentual do Distribuidor e Percentual dos Impostos:**
+
+  | **Custo de Fábrica**         | **% do Distribuidor** | **% dos Impostos**  |  
+  |------------------------------|-----------------------|---------------------|  
+  | Até R$ 12.000,00             | 5%                    | Isento              |  
+  | Entre R$ 12.000,00 e R$ 25.000,00 | 10%               | 15%                 |  
+  | Acima de R$ 25.000,00        | 15%                   | 20%                 |
+
 
 ## 🚀 Como usar
 Para acessar e executar os exercícios, siga os seguintes passos:
