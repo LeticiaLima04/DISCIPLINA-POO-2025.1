@@ -196,19 +196,16 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
   **Objetivo:**  
   Faça um programa que determine o salário atual desse funcionário.
 
----
 
 - [EXE2 - Cálculo de Série com Fatoriais](EXERCICIOS-RESOLVIDOS/Q2/src/br/edu/principal/Principal.java)  
   Faça um programa que leia um valor N inteiro e positivo. Calcule e mostre o valor de E, conforme a fórmula a seguir:
 
   | E = 1 + 1/1! + 1/2! + 1/3! + ... + 1/N! |
 
----
 
 - [EXE3 - Tabela de Fatoriais de N Números](EXERCICIOS-RESOLVIDOS/Q3/src/br/edu/principal/Principal.java)  
   Faça um programa que leia um número N que indica quantos valores inteiros e positivos devem ser lidos a seguir. Para cada número lido, mostre uma tabela contendo o valor lido e o fatorial desse valor.
 
----
 
 - [EXE4 - Estatísticas de Trânsito em Cidades](EXERCICIOS-RESOLVIDOS/Q4/src/br/edu/principal/Principal.java)  
   Foi feita uma estatística em cinco cidades brasileiras para coletar dados sobre acidentes de trânsito.
@@ -222,14 +219,12 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
   b) Qual é a média de veículos nas cinco cidades juntas?  
   c) Qual é a média de acidentes de trânsito nas cidades com menos de 2.000 veículos de passeio?
 
----
 
 - [EXE5 - Cálculo de Série Alternada com Fatoriais](EXERCICIOS-RESOLVIDOS/Q5/src/br/edu/principal/Principal.java)  
   Faça um programa que leia o número de termos e um valor positivo para X. Calcule e mostre o valor da série a seguir:
   
   | S = -X² + X³ - X⁴ + X⁵ - X⁶ + X⁷ - X⁸ + X⁹ - X¹⁰ + ... |
 
----
 
 - [EXE6 - Cálculo de Salário e Auxílio Alimentação](EXERCICIOS-RESOLVIDOS/Q6/src/br/edu/principal/Principal.java)  
   Uma empresa possui dez funcionários com as seguintes características: código, número de horas trabalhadas no mês, turno de trabalho (M – matutino; V – vespertino; ou N – noturno), categoria (O – operário; ou G – gerente), valor da hora trabalhada. O programa deve:  
@@ -262,21 +257,21 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
   Faça um programa que monte os oito primeiros termos da sequência de Fibonacci.  
   | 0 - 1 - 1 - 2 - 3 - 5 - 8 - 13 - 21 - 34 - 55... |
 
----
+
 
 - [EXE8 - Série Matemática com Padrões](EXERCICIOS-RESOLVIDOS/Q8/src/br/edu/principal/Principal.java)  
   Faça um programa que leia o número de termos, determine e mostre os valores de acordo com a série a seguir:
   
   | Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768... |
 
----
+
 
 - [EXE9 - Exibição de Data e Hora Formatadas](EXERCICIOS-RESOLVIDOS/Q9/src/br/edu/principal/Principal.java)  
   Faça um programa que mostre a data e a hora do sistema nos seguintes formatos:  
   **DD/MM/AAAA – mês por extenso**  
   **Hora:minuto**
 
----
+
 
 - [EXE10 - Comparação de Duas Datas](EXERCICIOS-RESOLVIDOS/Q10/src/br/edu/principal/Principal.java)  
   Faça um programa que determine a data cronologicamente maior entre duas datas fornecidas pelo usuário. Cada data deve ser composta por três valores inteiros: dia, mês e ano.
