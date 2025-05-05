@@ -16,7 +16,7 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 
 ### 📖 Exercícios Resolvidos
 
-- [EXE1 - Cálculo de Média Ponderada e Conceito Final](CAP-04/EXERCICIOS-RESOLVIDOS/Q1/src/br/edu/principal/Principal.java)  
+- [EXE1 - Cálculo de Média Ponderada e Conceito Final](CAP-04/EXERCICIOS-RESOLVIDOS/Q01/src/br/edu/principal/Principal.java)  
   Faça um programa que receba as três notas, calcule e mostre a média ponderada e o conceito final.
 
   **Pesos das notas:**
@@ -36,7 +36,7 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 
 ---
 
-- [EXE2 - Cálculo de Média Aritmética e Nota do Exame](CAP-04/EXERCICIOS-RESOLVIDOS/Q2/src/br/edu/principal/Principal.java)  
+- [EXE2 - Cálculo de Média Aritmética e Nota do Exame](CAP-04/EXERCICIOS-RESOLVIDOS/Q02/src/br/edu/principal/Principal.java)  
   Faça um programa que receba três notas de um aluno, calcule e mostre a média aritmética e a mensagem correspondente.  
   Aos alunos que ficaram para exame, calcule e mostre a nota que deverão tirar para serem aprovados, considerando que a média exigida é 6,0.
 
@@ -50,19 +50,19 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 
 ---
 
-- [EXE3 - Verificação do Maior Número](CAP-04/EXERCICIOS-RESOLVIDOS/Q3/src/br/edu/principal/Principal.java)  
+- [EXE3 - Verificação do Maior Número](CAP-04/EXERCICIOS-RESOLVIDOS/Q03/src/br/edu/principal/Principal.java)  
   Faça um programa que receba dois números e mostre o maior.
 
-- [EXE4 - Ordenação de Três Números Crescentes](CAP-04/EXERCICIOS-RESOLVIDOS/Q4/src/br/edu/principal/Principal.java)  
+- [EXE4 - Ordenação de Três Números Crescentes](CAP-04/EXERCICIOS-RESOLVIDOS/Q04/src/br/edu/principal/Principal.java)  
   Faça um programa que receba três números e mostre-os em ordem crescente. Suponha que o usuário digitará três números diferentes.
 
-- [EXE5 - Ordenação Decrescente com Quarto Número Fora de Ordem](CAP-04/EXERCICIOS-RESOLVIDOS/Q5/src/br/edu/principal/Principal.java)  
+- [EXE5 - Ordenação Decrescente com Quarto Número Fora de Ordem](CAP-04/EXERCICIOS-RESOLVIDOS/Q05/src/br/edu/principal/Principal.java)  
   Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número que não siga essa regra. Mostre, em seguida, os quatro números em ordem decrescente. Suponha que o usuário digitará quatro números diferentes.
 
-- [EXE6 - Verificação de Número Par ou Ímpar](CAP-04/EXERCICIOS-RESOLVIDOS/Q6/src/br/edu/principal/Principal.java)  
+- [EXE6 - Verificação de Número Par ou Ímpar](CAP-04/EXERCICIOS-RESOLVIDOS/Q06/src/br/edu/principal/Principal.java)  
   Faça um programa que receba um número inteiro e verifique se é par ou ímpar.
 
-- [EXE7 - Impressão de Valores com Base em Opção](CAP-04/EXERCICIOS-RESOLVIDOS/Q7/src/br/edu/principal/Principal.java)  
+- [EXE7 - Impressão de Valores com Base em Opção](CAP-04/EXERCICIOS-RESOLVIDOS/Q07/src/br/edu/principal/Principal.java)  
   Faça um programa que receba quatro valores: I, A, B e C. Desses valores, I é inteiro e positivo, A, B e C são reais. Escreva os números A, B e C obedecendo à tabela a seguir.  
   Suponha que o valor digitado para I seja sempre um valor válido, ou seja, 1, 2 ou 3, e que os números digitados sejam diferentes um do outro.
 
@@ -76,7 +76,7 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 
 ---
 
-- [EXE8 - Menu de Operações Matemáticas](CAP-04/EXERCICIOS-RESOLVIDOS/Q8/src/br/edu/principal/Principal.java)  
+- [EXE8 - Menu de Operações Matemáticas](CAP-04/EXERCICIOS-RESOLVIDOS/Q08/src/br/edu/principal/Principal.java)  
   Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e execute a operação correspondente:
 
   **Menu de opções:**
@@ -86,7 +86,7 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
   Digite a opção desejada:
 
 
-- [EXE9 - Exibição de Data e Hora Formatadas](CAP-04/EXERCICIOS-RESOLVIDOS/Q9/src/br/edu/principal/Principal.java)  
+- [EXE9 - Exibição de Data e Hora Formatadas](CAP-04/EXERCICIOS-RESOLVIDOS/Q09/src/br/edu/principal/Principal.java)  
   Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: DD/MM/AAAA – mês por extenso e hora:minuto.
 
 - [EXE10 - Comparação de Duas Datas](CAP-04/EXERCICIOS-RESOLVIDOS/Q10/src/br/edu/principal/Principal.java)  
@@ -97,10 +97,10 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 
 ## 📝 Exercícios Propostos
 
-- [EXE01 - Subtração de Dois Números](CAP-04/EXERCICIOS-PROPOSTOS/Q1/src/br/edu/principal/Principal.java):  
+- [EXE01 - Subtração de Dois Números](CAP-04/EXERCICIOS-PROPOSTOS/Q01/src/br/edu/principal/Principal.java):  
   Faça um programa que receba quatro notas de um aluno, calcule e mostre a média aritmética das notas e a mensagem de aprovado ou reprovado, considerando para aprovação média 7.
 
-- [EXE02 - Multiplicação de Três Números](CAP-04/EXERCICIOS-PROPOSTOS/Q2/src/br/edu/principal/Principal.java):  
+- [EXE02 - Multiplicação de Três Números](CAP-04/EXERCICIOS-PROPOSTOS/Q02/src/br/edu/principal/Principal.java):  
   Faça um programa que receba duas notas, calcule e mostre a média aritmética e a mensagem que se encontra na tabela a seguir:
 
   **Média Aritmética e Mensagem:**
@@ -113,13 +113,13 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 
   ---
 
-- [EXE03 - Divisão de Dois Números](CAP-04/EXERCICIOS-PROPOSTOS/Q3/src/br/edu/principal/Principal.java):  
+- [EXE03 - Divisão de Dois Números](CAP-04/EXERCICIOS-PROPOSTOS/Q03/src/br/edu/principal/Principal.java):  
   Faça um programa que receba dois números e mostre o menor.
 
-- [EXE04 - Média Ponderada de Duas Notas](CAP-04/EXERCICIOS-PROPOSTOS/Q4/src/br/edu/principal/Principal.java):  
+- [EXE04 - Média Ponderada de Duas Notas](CAP-04/EXERCICIOS-PROPOSTOS/Q04/src/br/edu/principal/Principal.java):  
   Faça um programa que receba três números e mostre o maior.
 
-- [EXE05 - Desconto de 10% no Preço](CAP-04/EXERCICIOS-PROPOSTOS/Q5/src/br/edu/principal/Principal.java):  
+- [EXE05 - Desconto de 10% no Preço](CAP-04/EXERCICIOS-PROPOSTOS/Q05/src/br/edu/principal/Principal.java):  
   Faça um programa que receba dois números e execute as operações conforme a escolha do usuário:
 
   | **Escolha do Usuário** | **Operação**                       |  
@@ -133,7 +133,7 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 
   ---
 
-- [EXE06 - Comissão sobre Vendas](CAP-04/EXERCICIOS-PROPOSTOS/Q6/src/br/edu/principal/Principal.java):  
+- [EXE06 - Comissão sobre Vendas](CAP-04/EXERCICIOS-PROPOSTOS/Q06/src/br/edu/principal/Principal.java):  
   Faça um programa que receba dois números e execute uma das operações abaixo, conforme escolha do usuário:
 
   **Opções:**
@@ -141,10 +141,10 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
   - b) Raiz quadrada de cada número.
   - c) Raiz cúbica de cada número.
 
-- [EXE07 - Variação de Peso](CAP-04/EXERCICIOS-PROPOSTOS/Q7/src/br/edu/principal/Principal.java):  
+- [EXE07 - Variação de Peso](CAP-04/EXERCICIOS-PROPOSTOS/Q07/src/br/edu/principal/Principal.java):  
   Uma empresa decide dar um aumento de 30% aos funcionários com salários inferiores a R$ 500,00. Faça um programa que receba o salário do funcionário e mostre o valor do salário reajustado ou uma mensagem, caso ele não tenha direito ao aumento.
 
-- [EXE08 - Peso em Gramas](CAP-04/EXERCICIOS-PROPOSTOS/Q8/src/br/edu/principal/Principal.java):  
+- [EXE08 - Peso em Gramas](CAP-04/EXERCICIOS-PROPOSTOS/Q08/src/br/edu/principal/Principal.java):  
   Faça um programa para calcular e mostrar o salário reajustado de um funcionário. O percentual de aumento encontra-se na tabela a seguir.
 
   **Salário e Percentual de Aumento:**
@@ -156,7 +156,7 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 
 ---
 
-- [EXE09 - Área de um Trapézio](CAP-04/EXERCICIOS-PROPOSTOS/Q9/src/br/edu/principal/Principal.java):  
+- [EXE09 - Área de um Trapézio](CAP-04/EXERCICIOS-PROPOSTOS/Q09/src/br/edu/principal/Principal.java):  
   Um banco concederá um crédito especial aos seus clientes, de acordo com o saldo médio no último ano. Faça um programa que receba o saldo médio de um cliente e calcule o valor do crédito, de acordo com a tabela a seguir. Mostre o saldo médio e o valor do crédito.
 
   **Saldo Médio e Percentual:**
