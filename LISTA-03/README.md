@@ -117,95 +117,58 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 
 ### 📖 Exercícios Resolvidos
 
-- [EXE1 - Cálculo de Salário Atual com Aumentos Progressivos](CAP-05/EXERCICIOS-RESOLVIDOS/Q1/src/br/edu/principal/Principal.java)  
-  Um funcionário de uma empresa recebe, anualmente, aumento salarial. Sabe-se que:
-  a) Esse funcionário foi contratado em 2005, com salário inicial de R$ 1.000,00.
-  b) Em 2006, ele recebeu aumento de 1,5% sobre seu salário inicial.
-  c) A partir de 2007 (inclusive), os aumentos salariais sempre corresponderam ao dobro do percentual do ano anterior.
+- [EXE1 - Retorno de Número Positivo ou Negativo](CAP-08/EXERCICIOS-RESOLVIDOS/Q1/src/br/edu/principal/Principal.java)  
+  Faça um programa contendo uma sub-rotina que retorne 1 se o número digitado for positivo ou 0 se for negativo.
+
+- [EXE2 - Soma de Números Inteiros Entre Dois Valores](CAP-08/EXERCICIOS-RESOLVIDOS/Q2/src/br/edu/principal/Principal.java)  
+  Faça um programa contendo uma sub-rotina que receba dois números positivos por parâmetro e retorne a soma dos N números inteiros existentes entre eles.
+
+- [EXE3 - Soma de Números Divisíveis por Um Valor](CAP-08/EXERCICIOS-RESOLVIDOS/Q3/src/br/edu/principal/Principal.java)  
+  Faça um programa contendo uma sub-rotina que receba três números inteiros a, b e c, sendo a maior que 1. A sub-rotina deverá somar todos os inteiros entre b e c que sejam divisíveis por a (inclusive b e c) e retornar o resultado para ser impresso.
+
+
+- [EXE4 - Estatísticas de Trânsito em Cidades](CAP-08/EXERCICIOS-RESOLVIDOS/Q4/src/br/edu/principal/Principal.java)  
+  Faça um programa contendo uma sub-rotina que receba três números inteiros a, b e c, sendo a maior que 1. A sub-rotina deverá somar todos os inteiros entre b e c que sejam divisíveis por a (inclusive b e c) e retornar o resultado para ser impresso.
+
+
+- [EXE5 - Cálculo de Percentual de Acréscimo](CAP-08/EXERCICIOS-RESOLVIDOS/Q5/src/br/edu/principal/Principal.java)  
+  Crie um programa que receba os valores antigo e atual de um produto. Chame uma sub-rotina que determine o percentual de acréscimo entre esses valores. O resultado deverá ser mostrado no programa principal.
+
+
+- [EXE6 - Tabela de Multiplicação de um Número](CAP-08/EXERCICIOS-RESOLVIDOS/Q6/src/br/edu/principal/Principal.java)  
+  Faça uma sub-rotina que receba como parâmetro um inteiro no intervalo de 1 a 9 e mostre a seguinte tabela de multiplicação (no exemplo, n = 9):
   
-  **Objetivo:**  
-  Faça um programa que determine o salário atual desse funcionário.
 
-
-- [EXE2 - Cálculo de Série com Fatoriais](CAP-05/EXERCICIOS-RESOLVIDOS/Q2/src/br/edu/principal/Principal.java)  
-  Faça um programa que leia um valor N inteiro e positivo. Calcule e mostre o valor de E, conforme a fórmula a seguir:
-
-  | E = 1 + 1/1! + 1/2! + 1/3! + ... + 1/N! |
-
-
-- [EXE3 - Tabela de Fatoriais de N Números](CAP-05/EXERCICIOS-RESOLVIDOS/Q3/src/br/edu/principal/Principal.java)  
-  Faça um programa que leia um número N que indica quantos valores inteiros e positivos devem ser lidos a seguir. Para cada número lido, mostre uma tabela contendo o valor lido e o fatorial desse valor.
-
-
-- [EXE4 - Estatísticas de Trânsito em Cidades](CAP-05/EXERCICIOS-RESOLVIDOS/Q4/src/br/edu/principal/Principal.java)  
-  Foi feita uma estatística em cinco cidades brasileiras para coletar dados sobre acidentes de trânsito.
-  Foram obtidos os seguintes dados:
-  a) código da cidade;
-  b) número de veículos de passeio;
-  c) número de acidentes de trânsito com vítimas.
-  
-  **Objetivos:**  
-  a) Qual é o maior e qual é o menor índice de acidentes de trânsito e a que cidades pertencem?  
-  b) Qual é a média de veículos nas cinco cidades juntas?  
-  c) Qual é a média de acidentes de trânsito nas cidades com menos de 2.000 veículos de passeio?
-
-
-- [EXE5 - Cálculo de Série Alternada com Fatoriais](CAP-05/EXERCICIOS-RESOLVIDOS/Q5/src/br/edu/principal/Principal.java)  
-  Faça um programa que leia o número de termos e um valor positivo para X. Calcule e mostre o valor da série a seguir:
-  
-  | S = -X² + X³ - X⁴ + X⁵ - X⁶ + X⁷ - X⁸ + X⁹ - X¹⁰ + ... |
-
-
-- [EXE6 - Cálculo de Salário e Auxílio Alimentação](CAP-05/EXERCICIOS-RESOLVIDOS/Q6/src/br/edu/principal/Principal.java)  
-  Uma empresa possui dez funcionários com as seguintes características: código, número de horas trabalhadas no mês, turno de trabalho (M – matutino; V – vespertino; ou N – noturno), categoria (O – operário; ou G – gerente), valor da hora trabalhada. O programa deve:  
-  a) Ler as informações dos funcionários, exceto o valor da hora trabalhada, não permitindo que sejam informados turnos e categorias inexistentes.  
-  b) Calcular o valor da hora trabalhada conforme a tabela fornecida.
-  
-  **Tabela de Cálculo da Hora Trabalhada:**
-
-  | Categoria | Turno | Valor da Hora Trabalhada |
-  |-----------|-------|--------------------------|
-  | G         | N     | 18% do salário mínimo     |
-  | G         | M ou V| 15% do salário mínimo     |
-  | O         | N     | 13% do salário mínimo     |
-  | O         | M ou V| 10% do salário mínimo     |
-
-  c) Calcular o salário inicial dos funcionários.  
-  d) Calcular o valor do auxílio alimentação com base no salário inicial.
-
-  **Tabela de Cálculo do Auxílio Alimentação:**
-
-  | Salário Inicial  | Auxílio Alimentação |
-  |------------------|---------------------|
-  | Até R$ 300,00    | 20% do salário       |
-  | Entre R$ 300,00 e R$ 600,00 | 15% do salário |
-  | Acima de R$ 600,00 | 5% do salário       |
+| 1 |    |    |    |    |    |    |    |    |
+| - | -- | -- | -- | -- | -- | -- | -- | -- |
+| 2 | 4  |    |    |    |    |    |    |    |
+| 3 | 6  | 9  |    |    |    |    |    |    |
+| 4 | 8  | 12 | 16 |    |    |    |    |    |
+| 5 | 10 | 15 | 20 | 25 |    |    |    |    |
+| 6 | 12 | 18 | 24 | 30 | 36 |    |    |    |
+| 7 | 14 | 21 | 28 | 35 | 42 | 49 |    |    |
+| 8 | 16 | 24 | 32 | 40 | 48 | 56 | 64 |    |
+| 9 | 18 | 27 | 36 | 45 | 54 | 63 | 72 | 81 |
 
 ---
 
-- [EXE7 - Sequência de Fibonacci](CAP-05/EXERCICIOS-RESOLVIDOS/Q7/src/br/edu/principal/Principal.java)  
-  Faça um programa que monte os oito primeiros termos da sequência de Fibonacci.  
-  | 0 - 1 - 1 - 2 - 3 - 5 - 8 - 13 - 21 - 34 - 55... |
+- [EXE7 - Cálculo da Média de Notas de Aluno](CAP-08/EXERCICIOS-RESOLVIDOS/Q7/src/br/edu/principal/Principal.java)  
+Elabore um programa contendo uma sub-rotina que receba as três notas de um aluno como parâmetros e uma letra. Se a letra for A, a sub-rotina deverá calcular a média aritmética das notas do aluno; se for P, deverá calcular a média ponderada, com pesos 5, 3 e 2. A média calculada deverá ser devolvida ao programa principal para, então, ser mostrada.
 
 
-
-- [EXE8 - Série Matemática com Padrões](CAP-05/EXERCICIOS-RESOLVIDOS/Q8/src/br/edu/principal/Principal.java)  
-  Faça um programa que leia o número de termos, determine e mostre os valores de acordo com a série a seguir:
-  
-  | Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768... |
+- [EXE8 - Cálculo da Média de Notas com Parâmetro](CAP-08/EXERCICIOS-RESOLVIDOS/Q8/src/br/edu/principal/Principal.java)  
+Elabore um programa contendo uma sub-rotina que receba as três notas de um aluno como parâmetros e uma letra. Se a letra for A, a sub-rotina deverá calcular a média aritmética das notas do aluno; se for P, deverá calcular a média ponderada, com pesos 5, 3 e 2. A média calculada deverá ser devolvida ao programa principal para, então, ser mostrada.
 
 
-
-- [EXE9 - Exibição de Data e Hora Formatadas](EXERCICIOS-RESOLVIDOS/Q9/src/br/edu/principal/Principal.java)  
-  Faça um programa que mostre a data e a hora do sistema nos seguintes formatos:  
-  **DD/MM/AAAA – mês por extenso**  
-  **Hora:minuto**
+- [EXE9 - Exibição de Data e Hora Formatadas](CAP-08/EXERCICIOS-RESOLVIDOS/Q9/src/br/edu/principal/Principal.java)  
+Elabore um programa contendo uma sub-rotina que receba as três notas de um aluno como parâmetros e uma letra. Se a letra for A, a sub-rotina deverá calcular a média aritmética das notas do aluno; se for P, deverá calcular a média ponderada, com pesos 5, 3 e 2. A média calculada deverá ser devolvida ao programa principal para, então, ser mostrada.
 
 
+- [EXE10 - Cálculo da Série com Fatoriais](CAP-08//EXERCICIOS-RESOLVIDOS/Q10/src/br/edu/principal/Principal.java)  
+Crie uma sub-rotina que receba como parâmetro um valor inteiro e positivo N e retorne o valor de S, obtido pelo seguinte cálculo:  
+S = 1 + 1/1! + 1/2! + 1/3! + ... + 1/N!
 
-- [EXE10 - Comparação de Duas Datas](CAP-05/EXERCICIOS-RESOLVIDOS/Q10/src/br/edu/principal/Principal.java)  
-  Faça um programa que determine a data cronologicamente maior entre duas datas fornecidas pelo usuário. Cada data deve ser composta por três valores inteiros: dia, mês e ano.
-
+---
 
 ## 🚀 Como usar
 Para acessar e executar os exercícios, siga os seguintes passos:
