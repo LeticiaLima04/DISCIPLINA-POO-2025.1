@@ -266,7 +266,7 @@ Cada exercício foi desenvolvido para que possamos compreender e aplicar os conc
 
 
 
-- [EXE9 - Exibição de Data e Hora Formatadas](EXERCICIOS-RESOLVIDOS/Q09/src/br/edu/principal/Principal.java)  
+- [EXE9 - Exibição de Data e Hora Formatadas](CAP-05/EXERCICIOS-RESOLVIDOS/Q09/src/br/edu/principal/Principal.java)  
   Faça um programa que mostre a data e a hora do sistema nos seguintes formatos:  
   **DD/MM/AAAA – mês por extenso**  
   **Hora:minuto**
